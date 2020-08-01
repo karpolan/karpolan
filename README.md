@@ -1,10 +1,8 @@
-### Hi, I an Anton KArpenko, but everybdy calls me KARPOLAN
+### Hi, I am Anton Karpenko, but but everyone calls me KARPOLAN
 
-- 🔭 I’m currently working on [Deel](https://www.letsdeel.com/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on [Deel](https://www.letsdeel.com/) 
+- 🌱 I’m currently learning how to use **MongoDB** and **PosteSQL** in the mix
+- 👯 I’m looking to collaborate on commercial project and startups
 - 💬 Ask me about [everything](https://www.facebook.com/karpolan)
 - 📫 How to reach me: i@karpolan.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm back to engineering after 15 years of business career
+- ⚡ Fun fact: I'm back to engineering after 15 years of business career :)
