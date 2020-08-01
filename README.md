@@ -4,7 +4,7 @@ Been aerospace engineer by education, I always worked in software development, e
 
 I know everything about nothing :)
 
-- 🔭 I’m currently working on **[Deel](https://www.letsdeel.com/)** 
+- 🔭 I’m currently working on **[Deel](https://www.letsdeel.com/?source=anton)** 
 - 🌱 I’m currently learning how to use **MongoDB** and **PosteSQL** in the mix...
 - 👯 I’m looking to collaborate on **commercial projects** and **startups**
 - 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
