@@ -4,9 +4,11 @@ Been aerospace engineer by education, I always worked in software development, e
 
 I know everything about nothing :)
 
-<!-- - 🔭 I’m currently working on **[Deel](https://www.letsdeel.com/?source=anton)** -->
+- 🔭 I was working on **[Deel](https://bit.ly/letsdeel)** 
 - 👯 I’m looking to collaborate on **commercial projects** and **startups**
 - 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
+- 🔭 I was working on **[Deel](https://bit.ly/letsdeel)** 
+- 🔭 I was working on **[Restream](https://bit.ly/restream-karpolan)** 
 - ⚡ Fun fact: I'm back to engineering after 15 years of business career :)
 
 <!-- - 🌱 I’m currently learning how to use **MongoDB** and **PosteSQL** in the mix with help of **[NestJS](https://nestjs.com/)** -->
