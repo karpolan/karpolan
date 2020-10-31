@@ -8,6 +8,6 @@ I know everything about nothing :)
 - 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
 - :heavy_dollar_sign: I was working on **[Deel](https://bit.ly/letsdeel)** 
 - :tv: I was working on **[Restream](https://bit.ly/restream-karpolan)** 
-- :trophy: Fun fact: I'm back to engineering after 15 years of business career :)
+- :trophy: Fun fact: I'm back to engineering after 15 years of business career :wink:
 
 <!-- - 🌱 I’m currently learning how to use **MongoDB** and **PosteSQL** in the mix with help of **[NestJS](https://nestjs.com/)** -->
