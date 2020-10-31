@@ -4,7 +4,6 @@ Been aerospace engineer by education, I always worked in software development, e
 
 I know everything about nothing :)
 
-- 🔭 I was working on **[Deel](https://bit.ly/letsdeel)** 
 - 👯 I’m looking to collaborate on **commercial projects** and **startups**
 - 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
 - 🔭 I was working on **[Deel](https://bit.ly/letsdeel)** 
