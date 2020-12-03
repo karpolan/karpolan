@@ -5,6 +5,7 @@ Been aerospace engineer by education, I always worked in software development, e
 I know everything about nothing :)
 
 - :mag_right: I’m looking to collaborate on **commercial projects** and **startups**
+- :heart: I prefer **React** with **[Material UI](https://material-ui.com/)** on frontend and **[NestJS](https://nestjs.com/)** with **MongoDB** and/or **PosteSQL** on backend 
 - 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
 - :heavy_dollar_sign: I was working on **[Deel](https://bit.ly/letsdeel)** 
 - :tv: I was working on **[Restream](https://bit.ly/restream-karpolan)** 
