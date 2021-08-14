@@ -6,7 +6,7 @@ I know everything about nothing :)
 
 - :mag_right: I’m looking to collaborate on **commercial projects** and **startups**
 - :heart: I prefer **React** with **[Material UI](https://material-ui.com/)** on frontend and **[NestJS](https://nestjs.com/)** with **MongoDB** and/or **PostgreSQL** on backend 
-- 💬 Ask me about **[everything](https://www.patreon.com/karpolan)**
+- 💬 Feel free to ask me about **[everything](https://www.patreon.com/karpolan)**
 - :green_book: I worked for **[Upwork](https://www.upwork.com/freelancers/~0105ffc44daf0cea49)** (NASDAQ:UPWK)
 - :moneybag: I worked for **[Deel](https://bit.ly/letsdeel)** (:unicorn: Startup)
 - :tv: I worked for **[Restream](https://bit.ly/restream-karpolan)** (Future :unicorn: Startup)
