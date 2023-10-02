@@ -1,6 +1,6 @@
 ### Hi, I am Anton Karpenko, but everyone calls me [KARPOLAN](https://karpolan.com)
 
-Been aerospace engineer by education, I always worked in software development, electronic engineering and businesses around information technologies.
+Being an aerospace engineer by education, I always worked in software development, electronic engineering, and businesses around information technologies.
 
 I know everything about nothing :)
 
