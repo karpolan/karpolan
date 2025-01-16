@@ -2,7 +2,7 @@
 
 Being an aerospace engineer by education, I always worked in software development, electronic engineering, and businesses around information technologies.
 
-I know everything about nothing :)
+<!-- I know everything about nothing :) -->
 
 - :mag_right: I’m looking to collaborate on **commercial projects** and **startups**
 - :heart: I prefer **React** with **[Material UI](https://mui.com/)** on frontend and **[NestJS](https://nestjs.com/)** with **MongoDB** and/or **PostgreSQL** on backend 
